@@ -1,2 +1,3 @@
 # projetoAlura
-Estudos Referente ao Php
+Minha pasta referente aos meus estudos sobre PHP
+
