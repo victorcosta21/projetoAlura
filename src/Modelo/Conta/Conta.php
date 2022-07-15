@@ -69,4 +69,8 @@ class Conta
         return self::$numeroDeContas;
     }
 
+    public function recuperaEndereco() : string
+    {
+       return $this->endereco;
+    }
 }
